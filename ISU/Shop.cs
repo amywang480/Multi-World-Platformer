@@ -249,8 +249,8 @@ namespace ISU
     
             //Display shop sign
             spriteBatch.Draw(signImg, signRec, Color.White);
-            spriteBatch.DrawString(nameFont, "Ozwald Ackerman's Potions\n" + "      That Won't Kill You", 
-                                   new Vector2(400, 95), Color.Black);
+            spriteBatch.DrawString(nameFont, "The Potions\n" + "      Shop", 
+                                   new Vector2(550, 95), Color.Black);
 
             //Display exit button
             spriteBatch.Draw(btnImg, exitRec, Color.White);
