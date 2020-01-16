@@ -1,0 +1,119 @@
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe.config
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.pdb
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Animation2D.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csprojAssemblyReference.cache
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe.config
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CoreCompileInputs.cache
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CopyComplete
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.pdb
+C:\Users\amywa\Documents\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Camera.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe.config
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.pdb
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\Animation2D.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\Camera.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csprojAssemblyReference.cache
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe.config
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CoreCompileInputs.cache
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CopyComplete
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe
+C:\Users\amywa\Documents\WorldOwnsPlayer_ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.pdb
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe.config
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.pdb
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Animation2D.dll
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Camera.dll
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.dll
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.xml
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csprojResolveAssemblyReference.cache
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CoreCompileInputs.cache
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe
+D:\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.pdb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe.config
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.pdb
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Animation2D.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Camera.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csprojAssemblyReference.cache
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe.config
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CoreCompileInputs.cache
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CopyComplete
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe
+C:\Users\amywa\Documents\CS USB\ICS4U\Assignments\ISU\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.pdb
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe.config
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.exe
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\ISU.pdb
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Animation2D.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\Camera.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\MonoGame.Framework.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.DXGI.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.XInput.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csprojAssemblyReference.cache
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe.config
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CoreCompileInputs.cache
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.csproj.CopyComplete
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.exe
+C:\Users\amywa\Documents\Updated CS Games\ISU_TreasureOfTime\ISU\ISU\obj\Debug\ISU.pdb

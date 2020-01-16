@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/amywa/Documents/ISU_TreasureOfTime/ISU/ISU/Content/Fonts/FinalTime.spritefont</SourceFile>
+  <SourceTime>2019-01-20T10:52:37.5606553-05:00</SourceTime>
+  <DestFile>C:/Users/amywa/Documents/ISU_TreasureOfTime/ISU/ISU/Content/bin/DesktopGL/Fonts/FinalTime.xnb</DestFile>
+  <DestTime>2019-01-21T14:33:03.7122196-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

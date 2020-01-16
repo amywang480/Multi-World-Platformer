@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/amywa/Documents/ISU_TreasureOfTime/ISU/ISU/Content/Songs/TreasureChestSong.mp3</SourceFile>
+  <SourceTime>2019-01-21T20:34:25.6269195-05:00</SourceTime>
+  <DestFile>C:/Users/amywa/Documents/ISU_TreasureOfTime/ISU/ISU/Content/bin/DesktopGL/Songs/TreasureChestSong.xnb</DestFile>
+  <DestTime>2019-01-21T20:35:04.946539-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/amywa/Documents/ISU_TreasureOfTime/ISU/ISU/Content/bin/DesktopGL/Songs/TreasureChestSong.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
