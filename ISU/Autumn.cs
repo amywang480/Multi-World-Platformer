@@ -1,6 +1,4 @@
-﻿//Author:           Amy Wang
 //File Name:        Autumn.cs
-//Project Name:     ISU
 //Creation Date:    December 27, 2018
 //Modified Date:    January 20, 2019
 //Description:      Display Autumn world by loading Autumn images and tiles
